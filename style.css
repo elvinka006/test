@@ -5,23 +5,17 @@
   box-sizing: border-box;
 }
 
-/* 
-  font-family: "Montserrat", serif; */
-
-section .icons {
+.icons {
   font-family: "Montserrat", serif;
   display: flex;
-  gap: 77px;
-  justify-content: center;
-}
-
-section .icon {
-  display: flex;
   flex-direction: column;
+  gap: 30px;
   justify-content: center;
   align-items: center;
 }
 
-section .icon h3 {
-  margin: 30px 0 10px 0;
+.icon {
+  width: 328px;
+  height: 200px;
+  background-color: #fff;
 }
