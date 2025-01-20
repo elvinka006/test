@@ -9,6 +9,7 @@
   font-family: "Montserrat", serif; */
 
 section .icons {
+  font-family: "Montserrat", serif;
   display: flex;
   gap: 77px;
   justify-content: center;
